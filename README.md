@@ -1,4 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allelleo)](https://git.io/streak-stats)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=allelleo&show_icons=true&theme=radical)
 
