@@ -1,6 +1,9 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allelleo&theme=solarized_dark)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=allelleo&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allelleo&theme=solarized_dark)
 
-### Top languages
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allelleo&theme=solarized_dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allelleo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allelleo&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allelleo&theme=solarized_dark)
