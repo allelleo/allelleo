@@ -17,7 +17,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Flask](https://img.shields.io/badge/pandas?style=flat-square&logo=Flask)
+![Flask](https://img.shields.io/badge/Flask?style=flat-square&logo=Flask)
 ![Pandas]()
 
 **Databases**
