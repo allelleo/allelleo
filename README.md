@@ -58,3 +58,4 @@
 
 ![allelleo github stats](https://github-readme-stats.vercel.app/api?username=allelleo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![allelleo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allelleo&layout=compact&count_private=true&theme=gruvbox)
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17389%26project%3D%26in%3D0)](https://codetime.dev)
