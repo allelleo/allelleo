@@ -38,6 +38,10 @@
 - ✉️ Email: [gen@allelleo.ru](mailto:gen@allelleo.ru)
 - 🧠 Learning: `Playwright`, `Distributed Systems`
 - 🤝 Open to: Python backends, bots, microservices, AQA
+- 🎓 Graduated from college ( programmer )
+- 🏆 I am the winner of a large number of hackathons
+- 🧠 I work for AQA in tenchat.ru
+- 🎖️ I constantly take orders for backend and fullstack development
 
 </td>
 <td width="50%">
@@ -51,3 +55,12 @@
 </td>
 </tr>
 </table>
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,redis,kafka,git,linux,python,js,ts,plawright,html,css,vscode,bash,minio,swagger,jwt,mysql,sqlite" />
+</p>
+
+---
