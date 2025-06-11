@@ -2,6 +2,7 @@
   <a href="https://github.com/0sokrat0" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&width=435&lines=Alexey+Ovchinikov;Python+Backend+Developer" alt="Typing SVG" /></a>
 </h1>
+---
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17389%26project%3D%26in%3D0)](https://codetime.dev)
 
 
