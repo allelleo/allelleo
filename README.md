@@ -4,15 +4,23 @@
   </a>
 </h1>
 
-
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17389%26project%3D%26in%3D0)](https://codetime.dev)
-
-
-
-<a href="https://vk.com/allelleo">
-  <img align="left" alt="vk" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6">
-</a>
-
+<p align="center">
+  <a href="https://codetime.dev">
+    <img src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17389%26project%3D%26in%3D0" alt="CodeTime badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vk.com/allelleo">
+    <img alt="VK" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/allelleo">
+    <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gen@allelleo.ru">
+    <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" />
+  </a>
+</p>
 
 
 </br>
