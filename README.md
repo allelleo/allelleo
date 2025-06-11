@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="https://codetime.dev">
-    <img src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17389%26project%3D%26in%3D0" alt="CodeTime badge" />
+    <img src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17389%26project%3D%26in%3D0" alt="CodeTime badge" />
   </a>
   &nbsp;&nbsp;
   <a href="https://vk.com/allelleo">
-    <img alt="VK" width="22px" src="https://vk.com/images/icons/favicons/fav_logo.ico?6" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" alt="VK" width="24px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/allelleo">
-    <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="24px" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:gen@allelleo.ru">
-    <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="24px" />
   </a>
 </p>
 
