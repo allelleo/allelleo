@@ -60,7 +60,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,redis,kafka,git,linux,python,js,ts,plawright,html,css,vscode,bash,minio,swagger,jwt,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,redis,kafka,git,linux,python,js,ts,html,css,vscode,bash,minio,swagger,jwt,mysql,sqlite,nodejs,bootstrap,django,fastapi,flask,jenkins,nginx,obsidian,prometheuspycharm,raspberrypi,selenium," />
 </p>
 
 ---
